@@ -39,7 +39,7 @@
     "gulp-uglify": "~2.1.0",
     "gulp-util": "~3.0.8",
     "js-yaml": "~3.8.2",
-    "marked": "~0.3.6",
+    "marked": "~4.0.10",
     "marked-terminal": "~2.0.0",
     "merge-stream": "~1.0.1",
     "postcss-custom-properties": "^6.2.0",
